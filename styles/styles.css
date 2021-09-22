@@ -126,7 +126,7 @@ span {
 
 @media screen and (max-width: 768px) {
   .container .header {
-    padding: 3rem;
+    padding: 3rem 2rem;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
         -ms-flex-direction: row;
